@@ -29232,13 +29232,13 @@ Pal_UstvestiaPortraitEnd:
 Pal_Dezolian1Portrait:	binclude "palettes/NPC/Dezolian 1 portrait.bin"
 Pal_Dezolian1PortraitEnd:
 
-Pal_Dezolian2Portrait:	binclude "palettes/NPC/dezolian 2 portrait.bin"
+Pal_Dezolian2Portrait:	binclude "palettes/NPC/Dezolian 2 portrait.bin"
 Pal_Dezolian2PortraitEnd:
 
-Pal_Dezolian3Portrait:	binclude "palettes/NPC/dezolian 3 portrait.bin"
+Pal_Dezolian3Portrait:	binclude "palettes/NPC/Dezolian 3 portrait.bin"
 Pal_Dezolian3PortraitEnd:
 
-Pal_Dezolian4Portrait:	binclude "palettes/NPC/dezolian 4 portrait.bin"
+Pal_Dezolian4Portrait:	binclude "palettes/NPC/Dezolian 4 portrait.bin"
 Pal_Dezolian4PortraitEnd:
 
 Pal_ItemKeeperPort:	binclude "palettes/NPC/Item keeper portrait.bin"
